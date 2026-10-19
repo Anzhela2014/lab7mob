@@ -1,5 +1,4 @@
 import 'dart:math';
-
 abstract class Character {
   final String name;
   int hp;
